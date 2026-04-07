@@ -1,4 +1,4 @@
-# Hi, I'm raipbarboza 👋
+# Hi, I'm Rai Barboza 👋
 
 I'm a professional transitioning into **Data Analytics**, with a focus on **ESG (Environmental, Social & Governance)** data — collecting, analyzing, and reporting sustainability metrics.
 
