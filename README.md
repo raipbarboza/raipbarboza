@@ -42,6 +42,8 @@ Background in Python, SQL, REST APIs and DevOps. Currently building expertise in
 
 🔗 [python-esg-studies](https://github.com/raipbarboza/python-esg-studies) — Learning Python through real ESG data: emissions calculations, company scoring and sustainability metrics.
 
+🔗 [Carbontrack-br](https://github.com/raipbarboza/carbontrack-br) — Public data pipeline for carbon risk and ESG analysis of Brazilian publicly traded companies.
+
 ---
 
 ## 📫 Let's connect
