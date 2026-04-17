@@ -25,7 +25,7 @@ Coleta, armazenamento e análise de dados ESG públicos da Carteira ISE B3 — o
 
 ---
 
-**[CarbonTrack BR](https://github.com/raipbarboza/CarbonTrackBR)** `construindo`  
+**[CarbonTrack BR](https://github.com/raipbarboza/carbontrack-br)** `construindo`  
 Pipeline de dados públicos para análise de risco de carbono de companhias abertas brasileiras. Integra CVM, IBAMA, B3 ISE e relatórios GRI/CDP — alinhado ao SBCE.  
 `CVM` `IBAMA` `GRI` `CDP` `SBCE` `Python`
 
