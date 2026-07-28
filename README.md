@@ -2,7 +2,7 @@
   Rai P. Barboza — raipbarboza/raipbarboza
 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=F0A500&width=500&lines=Rai.P.+Barboza;Sistemas+para+Internet+%C2%B7+UFLA;Data+Analytics+%C2%B7+ESG" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=F0A500&width=500&lines=Rai+Barboza;Sistemas+para+Internet+%C2%B7+UFLA;Data+Analytics+%C2%B7+ESG" alt="" />
 
 <sub>SISTEMAS PARA INTERNET · DATA ANALYTICS · ESG</sub><br>
 <sub>↳ Universidade Federal de Lavras — MG, Brasil</sub>
