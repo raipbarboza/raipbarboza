@@ -10,8 +10,6 @@
 <br>
 
 > Desenvolvedor java em formação na UFLA.  
-> Construo pipelines de dados para sustentabilidade corporativa no Brasil —  
-> conectando fontes públicas a análises de risco ESG.
 
 <br>
 
