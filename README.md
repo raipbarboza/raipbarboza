@@ -265,12 +265,12 @@ Código precisa poder mudar.
 │  JAVA                                               │
 │  ├── POO                                            │
 │  ├── Algoritmos                                     │
-│  ├── Estruturas de Dados                             │
+│  ├── Estruturas de Dados                            │
 │  └── Fundamentos de desenvolvimento                 │
 │                                                     │
 │  BACKEND                                            │
 │  ├── APIs                                           │
-│  ├── Regras de negócio                               │
+│  ├── Regras de negócio                              │
 │  └── Persistência                                   │
 │                                                     │
 │  DADOS                                              │
