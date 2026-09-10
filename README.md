@@ -1,129 +1,306 @@
-<!--
-  Rai P. Barboza — raipbarboza/raipbarboza
--->
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=F0A500&width=500&lines=Rai+Barboza;Sistemas+para+Internet+%C2%B7+UFLA;Data+Analytics+%C2%B7+ESG" alt="" />
+# Rai Barboza
 
-<sub>SISTEMAS PARA INTERNET · DATA ANALYTICS · ESG</sub><br>
-<sub>↳ Universidade Federal de Lavras — MG, Brasil</sub>
+### Desenvolvimento de Sistemas · Java · Python · SQL
+
+**Tecnologia em Sistemas para Internet · UFLA**
 
 <br>
 
-> Desenvolvedor java em formação na UFLA.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C27A3A?style=flat-square\&logo=linkedin\&logoColor=0d1117)](https://www.linkedin.com/in/rai-barboza-01a90a262/)
+![Java](https://img.shields.io/badge/Java-F0A500?style=flat-square\&logo=openjdk\&logoColor=0d1117)
+![Python](https://img.shields.io/badge/Python-F0A500?style=flat-square\&logo=python\&logoColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C27A3A?style=flat-square\&logo=postgresql\&logoColor=0d1117)
+
+</div>
 
 <br>
 
 ---
 
-### `//` projetos
+## `01` — Sobre
+
+Sou **desenvolvedor de sistemas em formação**, atualmente cursando Tecnologia em Sistemas para Internet na **Universidade Federal de Lavras (UFLA)**.
+
+Meu foco atual está em **Java, Programação Orientada a Objetos, algoritmos, estruturas de dados e desenvolvimento de sistemas**.
+
+Minha experiência anterior acrescenta uma segunda camada à minha formação: **Python, SQL, PostgreSQL, infraestrutura, automação e análise de dados**.
+
+Gosto de começar pelo problema antes de começar pelo código.
+
+> **Entender o contexto → investigar → estruturar → construir → evoluir**
+
+---
+
+## `02` — Direção atual
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>🟠 esg-web-scraping</h4>
-      <sub>EM PROGRESSO</sub><br><br>
-      Scraping da Carteira ISE B3 → PostgreSQL → análise com Pandas.
-      <br><br>
-      <img src="https://img.shields.io/badge/BeautifulSoup-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Requests-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/SQL-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Pandas-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/B3_ISE-3D2B1A?style=flat-square" />
-    </td>
-    <td width="50%">
-      <h4>🔴 CarbonTrack BR</h4>
-      <sub>CONSTRUINDO</sub><br><br>
-      Risco de carbono de companhias abertas — CVM, IBAMA, GRI/CDP, alinhado ao SBCE.
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/CVM-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/IBAMA-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/GRI-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/SBCE-3D2B1A?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🟡 python-esg-studies</h4>
-      <sub>FUNDAÇÃO</sub><br><br>
-      Python aplicado a dados ESG — emissões, scoring e métricas de sustentabilidade.
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Jupyter-3D2B1A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Pandas-3D2B1A?style=flat-square" />
-    </td>
-    <td width="50%"></td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java
+
+Estou construindo minha base de desenvolvimento em Java através da graduação e de projetos práticos.
+
+**Estudando**
+
+* Programação Orientada a Objetos
+* Algoritmos
+* Estruturas de Dados
+* Collections
+* Exceções
+* Boas práticas
+* Arquitetura de sistemas
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Desenvolvimento
+
+Meu objetivo é evoluir da implementação de pequenos programas para sistemas cada vez mais estruturados.
+
+**Explorando**
+
+* Regras de negócio
+* APIs
+* Persistência
+* Banco de dados
+* Testes
+* Arquitetura
+* Manutenibilidade
+
+</td>
+</tr>
 </table>
 
 <br>
 
 ---
 
-### `//` aprendendo agora
+## `03` — Projetos
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Python · Pandas-F0A500?style=for-the-badge&logo=python&logoColor=0d1117" /><br>
-      <sub>data &nbsp;|&nbsp; <b>50%</b></sub><br>
-      <img src="https://progress-bar.xyz/50?title=&width=140&color=F0A500&suffix=%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/SQL · PostgreSQL-C27A3A?style=for-the-badge&logo=postgresql&logoColor=0d1117" /><br>
-      <sub>data &nbsp;|&nbsp; <b>35%</b></sub><br>
-      <img src="https://progress-bar.xyz/35?title=&width=140&color=C27A3A&suffix=%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Web Scraping-C27A3A?style=for-the-badge&logo=python&logoColor=0d1117" /><br>
-      <sub>data &nbsp;|&nbsp; <b>38%</b></sub><br>
-      <img src="https://progress-bar.xyz/38?title=&width=140&color=C27A3A&suffix=%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/HTML · CSS · JS-E05C2A?style=for-the-badge&logo=javascript&logoColor=0d1117" /><br>
-      <sub>dev &nbsp;|&nbsp; <b>15%</b></sub><br>
-      <img src="https://progress-bar.xyz/15?title=&width=140&color=E05C2A&suffix=%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Algoritmos · Lógica-E05C2A?style=for-the-badge&logo=thealgorithms&logoColor=0d1117" /><br>
-      <sub>ufla &nbsp;|&nbsp; <b>20%</b></sub><br>
-      <img src="https://progress-bar.xyz/20?title=&width=140&color=E05C2A&suffix=%" />
-    </td>
-    <td width="33%"></td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎬 Sistema de Filmes
+
+**Java · POO**
+
+Projeto acadêmico desenvolvido durante a graduação.
+
+Um sistema de gerenciamento de filmes criado para praticar os fundamentos de orientação a objetos e lógica de programação.
+
+**Conceitos**
+
+`Classes` · `Objetos` · `Métodos` · `Construtores`
+`Encapsulamento` · `Regras de negócio`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ Estudos em Desenvolvimento
+
+**Java · Python · SQL**
+
+Projetos e exercícios utilizados para transformar conceitos estudados em código.
+
+O foco está menos em quantidade de projetos e mais em compreender **como e por que um sistema é estruturado**.
+
+**Explorando**
+
+`POO` · `Algoritmos` · `Estruturas de Dados`
+`Git` · `Banco de Dados` · `APIs`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Dados & Automação
+
+**Python · SQL · PostgreSQL**
+
+Projetos envolvendo tratamento de dados, automação, consultas e integração com bancos de dados.
+
+Essa experiência continua fazendo parte da minha formação técnica e complementa meu trabalho com sistemas.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗺️ Sistemas & Dados
+
+Tenho interesse especial em sistemas que conectam **software, dados e problemas do mundo real**.
+
+É nessa interseção que pretendo continuar desenvolvendo minha carreira.
+
+</td>
+
+</tr>
 </table>
 
 <br>
 
 ---
 
-### `//` stack
+## `04` — Stack
 
-![Python](https://img.shields.io/badge/Python-F0A500?style=flat-square&logo=python&logoColor=0d1117)
-![Pandas](https://img.shields.io/badge/Pandas-F0A500?style=flat-square&logo=pandas&logoColor=0d1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-F0A500?style=flat-square&logo=jupyter&logoColor=0d1117)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-C27A3A?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C27A3A?style=flat-square&logo=postgresql&logoColor=0d1117)
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Linguagens
+
+![Java](https://img.shields.io/badge/Java-F0A500?style=flat-square\&logo=openjdk\&logoColor=0d1117)
+
+![Python](https://img.shields.io/badge/Python-F0A500?style=flat-square\&logo=python\&logoColor=0d1117)
+
 ![SQL](https://img.shields.io/badge/SQL-C27A3A?style=flat-square)
-![Git](https://img.shields.io/badge/Git-C27A3A?style=flat-square&logo=git&logoColor=0d1117)
-![HTML](https://img.shields.io/badge/HTML-E05C2A?style=flat-square&logo=html5&logoColor=0d1117)
-![CSS](https://img.shields.io/badge/CSS-E05C2A?style=flat-square&logo=css3&logoColor=0d1117)
-![GRI](https://img.shields.io/badge/GRI-3D2B1A?style=flat-square)
-![B3 ISE](https://img.shields.io/badge/B3_ISE-3D2B1A?style=flat-square)
-![SBCE](https://img.shields.io/badge/SBCE-3D2B1A?style=flat-square)
+
+</td>
+
+<td valign="top" width="33%">
+
+### Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C27A3A?style=flat-square\&logo=postgresql\&logoColor=0d1117)
+
+![Pandas](https://img.shields.io/badge/Pandas-C27A3A?style=flat-square\&logo=pandas\&logoColor=0d1117)
+
+</td>
+
+<td valign="top" width="33%">
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-3D2B1A?style=flat-square\&logo=git\&logoColor=F0A500)
+
+![Docker](https://img.shields.io/badge/Docker-3D2B1A?style=flat-square\&logo=docker\&logoColor=F0A500)
+
+![Linux](https://img.shields.io/badge/Linux-3D2B1A?style=flat-square\&logo=linux\&logoColor=F0A500)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` — Formação
+
+**Tecnologia em Sistemas para Internet**
+Universidade Federal de Lavras · UFLA
+
+`2026 — presente`
+
+Formação voltada à análise, desenvolvimento e manutenção de sistemas para Internet, com aprofundamento atual em **Java, programação, algoritmos, estruturas de dados e desenvolvimento de software**.
+
+---
+
+## `06` — Como penso sobre tecnologia
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**Entender**
+
+Antes de implementar, entender o problema.
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+**Investigar**
+
+Usar contexto e dados para encontrar evidências.
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+**Construir**
+
+Transformar a solução em software.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**Evoluir**
+
+Código precisa poder mudar.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> *Não busco apenas fazer o código funcionar.
+> Busco entender o sistema que estou construindo.*
+
+---
+
+## `07` — Atualmente
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  JAVA                                               │
+│  ├── POO                                            │
+│  ├── Algoritmos                                     │
+│  ├── Estruturas de Dados                             │
+│  └── Fundamentos de desenvolvimento                 │
+│                                                     │
+│  BACKEND                                            │
+│  ├── APIs                                           │
+│  ├── Regras de negócio                               │
+│  └── Persistência                                   │
+│                                                     │
+│  DADOS                                              │
+│  ├── SQL                                            │
+│  └── PostgreSQL                                     │
+│                                                     │
+│  INFRAESTRUTURA                                     │
+│  ├── Git                                            │
+│  ├── Docker                                         │
+│  └── Automação                                      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 <br>
 
 ---
 
-### `//` contato
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C27A3A?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/rai-pereira-barboza-01a90a262)
+### Vamos construir.
+
+Desenvolvimento de sistemas · Dados · Tecnologia
 
 <br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C27A3A?style=for-the-badge\&logo=linkedin\&logoColor=0d1117)](https://www.linkedin.com/in/rai-barboza-01a90a262/)
 
-<sub><i>"Data without context is just noise. ESG without data is just intent."</i></sub>
+<br><br>
+
+<sub>Build with purpose · Learn continuously · Improve constantly</sub>
+
+</div>
